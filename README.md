@@ -20,8 +20,8 @@ cors: true
 ```
 // in response header
 
-'x-req-start':1531190776
-'x-res-end':1531190777
-'x-time': 1s
+x-req-start: 1531190985055
+x-res-end: 1531190985061
+x-time: 6ms
 
 ```
