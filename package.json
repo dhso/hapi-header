@@ -24,6 +24,9 @@
         "url": "https://github.com/dhso/hapi-header/issues"
     },
     "homepage": "https://github.com/dhso/hapi-header",
+    "dependencies": {
+        "joi": "^17.3.0"
+    },
     "devDependencies": {
         "code": "^5.1.2",
         "@hapi/hapi": "^20.0.3",
